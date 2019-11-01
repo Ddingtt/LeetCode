@@ -33,6 +33,6 @@ class Solution {
 
         return dummy.next;
     }
-}
+} 
 // @lc code=end
 
