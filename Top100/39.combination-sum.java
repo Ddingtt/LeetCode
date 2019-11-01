@@ -32,6 +32,6 @@ class Solution {
             result.add(new ArrayList<Integer>(cur));//目标等于0，返回0值
         }
     }
-}
+} 
 // @lc code=end
 
